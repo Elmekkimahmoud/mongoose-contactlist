@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mongoose-contactlist/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mongoose-contactlist/static/js/main.9ace7ec7.chunk.js",
+    "main.js.map": "/mongoose-contactlist/static/js/main.9ace7ec7.chunk.js.map",
+    "runtime-main.js": "/mongoose-contactlist/static/js/runtime-main.6dcd7e2c.js",
+    "runtime-main.js.map": "/mongoose-contactlist/static/js/runtime-main.6dcd7e2c.js.map",
+    "static/js/2.d93d1f07.chunk.js": "/mongoose-contactlist/static/js/2.d93d1f07.chunk.js",
+    "static/js/2.d93d1f07.chunk.js.map": "/mongoose-contactlist/static/js/2.d93d1f07.chunk.js.map",
+    "index.html": "/mongoose-contactlist/index.html",
+    "precache-manifest.3e2b9a6fe2e13f9b57ae74944303f519.js": "/mongoose-contactlist/precache-manifest.3e2b9a6fe2e13f9b57ae74944303f519.js",
+    "service-worker.js": "/mongoose-contactlist/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mongoose-contactlist/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d93d1f07.chunk.js.LICENSE.txt": "/mongoose-contactlist/static/js/2.d93d1f07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dcd7e2c.js",
+    "static/js/2.d93d1f07.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9ace7ec7.chunk.js"
+  ]
+}
